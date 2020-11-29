@@ -1,0 +1,5 @@
+,code,name,geographic_level,city_class,income_classification,urban_rural_2015_POPCEN,population_2015_POPCEN,Reg_code,Prov_code,Mun_code,Bgy_code,City_code,Dist_code,SubMun_code,Reg_name,Prov_name,Mun_name,Bgy_name,City_name,Dist_name,SubMun_name
+0,133900000,"NCR, CITY OF MANILA, FIRST DISTRICT (Not a Province)",Dist,,,,1780148,130000000,,,,,133900000,,NATIONAL CAPITAL REGION (NCR),,,,,"NCR, CITY OF MANILA, FIRST DISTRICT (Not a Province)",
+1,137400000,"NCR, SECOND DISTRICT (Not a Province)",Dist,,,,4650613,130000000,,,,,137400000,,NATIONAL CAPITAL REGION (NCR),,,,,"NCR, SECOND DISTRICT (Not a Province)",
+2,137500000,"NCR, THIRD DISTRICT (Not a Province)",Dist,,,,2819388,130000000,,,,,137500000,,NATIONAL CAPITAL REGION (NCR),,,,,"NCR, THIRD DISTRICT (Not a Province)",
+3,137600000,"NCR, FOURTH DISTRICT (Not a Province)",Dist,,,,3627104,130000000,,,,,137600000,,NATIONAL CAPITAL REGION (NCR),,,,,"NCR, FOURTH DISTRICT (Not a Province)",
